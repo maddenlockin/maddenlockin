@@ -14,7 +14,6 @@ As a strongly empathic person, I will shift my own way of framing a situation in
 As an impeccably organized dev, I strive to keep my files structured in a straight-foward and navigable manner. For example, each SQL table having its own testing file.
 I thrive in an environment where collaboration and connection drive ideation.
 
-I am looking to continue learning and sharpening skills as a developer at a socially focused company.
 ---
 ### My Tech Stack
 - JavaScript
